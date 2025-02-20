@@ -35,7 +35,7 @@ This project is designed to efficiently retrieve, process, and analyze weather d
 
 Below are some visual outputs from the dataset analysis:
 
-![Forecast Over Time](WeatherData/US_Weather/img/forecast_over_time.png)
+![Forecast Over Time](img/forecast_over_time.png)
 
 ![Precipitation Probability](WeatherData/US_Weather/img/precipitation_probability.png)
 
