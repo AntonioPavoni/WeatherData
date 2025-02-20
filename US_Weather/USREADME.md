@@ -37,13 +37,13 @@ Below are some visual outputs from the dataset analysis:
 
 ![Forecast Over Time](img/forecast_over_time.png)
 
-![Precipitation Probability](WeatherData/US_Weather/img/precipitation_probability.png)
+![Precipitation Probability](img/precipitation_probability.png)
 
-![Quantitative Precipitation](WeatherData/US_Weather/img/quantitative_precipitation.png)
+![Quantitative Precipitation](img/quantitative_precipitation.png)
 
-![Temperature Evolution](WeatherData/US_Weather/img/temperature_evolution.png)
+![Temperature Evolution](img/temperature_evolution.png)
 
-![Wind Speed Evolution](WeatherData/US_Weather/img/wind_speed_evolution.png)
+![Wind Speed Evolution](img/wind_speed_evolution.png)
 
 ## How to Use This Project
 
